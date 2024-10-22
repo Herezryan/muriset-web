@@ -1,2 +1,2 @@
-# muriset_web
+# muriset-web
 Personal Website Portfolio
